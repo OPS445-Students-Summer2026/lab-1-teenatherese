@@ -1,3 +1,4 @@
+Git Email: ttantony-rexlin-joe@myseneca.ca
 test_0 (__main__.lab1a)
 [Lab 1] - [Investigation 3] - [Part 2] - printing - Test for file creation: ./lab1a.py ... ok
 test_a (__main__.lab1a)
@@ -8,7 +9,7 @@ test_b (__main__.lab1a)
 [Lab 1] - [Investigation 3] - [Part 2] - printing - Test output for correct output "Hello world": ./lab1a.py ... ok
 
 ----------------------------------------------------------------------
-Ran 4 tests in 0.133s
+Ran 4 tests in 0.091s
 
 OK
 test_0 (__main__.lab1b)
@@ -21,7 +22,7 @@ test_b (__main__.lab1b)
 [Lab 1] - [Investigation 4] - string objects & printing - Test for correct output "How old are you Isaac?": ./lab1b.py ... ok
 
 ----------------------------------------------------------------------
-Ran 4 tests in 0.074s
+Ran 4 tests in 0.108s
 
 OK
 test_0 (__main__.lab1c)
@@ -34,7 +35,7 @@ test_b (__main__.lab1c)
 [Lab 1] - [Investigation 4] - integer objects & printing - Test output for correct output "Isaac is 72 years old!": ./lab1c.py ... ok
 
 ----------------------------------------------------------------------
-Ran 4 tests in 0.074s
+Ran 4 tests in 0.077s
 
 OK
 test_0 (__main__.lab1d)
@@ -47,6 +48,6 @@ test_b (__main__.lab1d)
 [Lab 1] - [Investigation 5] - math operators - Test output for correct output "10 + 2 * 5 = 20": ./lab1d.py ... ok
 
 ----------------------------------------------------------------------
-Ran 4 tests in 0.075s
+Ran 4 tests in 0.144s
 
 OK
